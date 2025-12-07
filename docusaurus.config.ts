@@ -13,7 +13,7 @@ const config: Config = {
   // Set the production url of your site here
   url: 'https://syed-shakir-ali-kazmi.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
-  baseUrl: '/humanoid-robotics-ebook',
+  baseUrl: '/humanoid-robotics-book',
 
   // GitHub pages deployment config.
   organizationName: 'syed-shakir-ali-kazmi', // Usually your GitHub org/user name.
