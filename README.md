@@ -6,4 +6,5 @@
 4. QDrant conneciton and content pipeline ✅
 5. OpenAI Agents SDK ( Pending )
 6. Frontend Integration ( Pending )
-LIVE DEMONSTRATION : https://syed-shakir-ali-kazmi.github.io/humanoid-robotics-book/
+<br>
+<h3>LIVE DEMONSTRATION :</h3><a href="https://syed-shakir-ali-kazmi.github.io/humanoid-robotics-book/">https://syed-shakir-ali-kazmi.github.io/humanoid-robotics-book/</a>
